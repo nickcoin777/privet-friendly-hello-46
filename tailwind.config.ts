@@ -47,6 +47,12 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        dental: {
+          success: "hsl(var(--dental-success))",
+          warning: "hsl(var(--dental-warning))",
+          danger: "hsl(var(--dental-danger))",
+          primary: "hsl(var(--dental-primary))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
